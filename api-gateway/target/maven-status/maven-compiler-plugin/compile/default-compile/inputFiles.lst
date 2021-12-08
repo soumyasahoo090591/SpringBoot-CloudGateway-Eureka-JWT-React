@@ -1,0 +1,7 @@
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\ApiGatewayApplication.java
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\model\UserRole.java
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\dto\JwtParseRequestDto.java
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\dto\JwtParseResponseDto.java
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\config\WebSecurityConfiguration.java
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\config\AuthenticationFilter.java
+C:\STUDY\spring-boot-api-gateway-master\api-gateway\src\main\java\com\github\akhuntsaria\apigateway\config\RestTemplateConfig.java
